@@ -1,14 +1,13 @@
 let modInfo = {
-	name: "The Crystal Tree",
-	id: "crystalmod",
-	author: "InfinitiesQy",
-	pointsName: "points",
+	name: "The Blood Tree",
+	author: "Nodellaspkl",
+	pointsName: "Blood Drops",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 1,  // In hours
+	offlineLimit: 10,  // In hours
 }
 
 // Set your version in num and name
